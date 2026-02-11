@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ちゃんと帰ってくるから、許して",
+  "base_artist": "ヤングスキニー",
+  "createdAt": "2026-02-11T07:53:04.302121Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ちゃんと帰ってくるから、許して",
+      "artist": "ヤングスキニー",
+      "has_synced": false,
+      "path": "select/pl_01_ちゃんと帰ってくるから、許して_ヤングスキニー.txt"
+    }
+  ]
+}
